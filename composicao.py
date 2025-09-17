@@ -24,7 +24,6 @@ class Funcionario:
         self.dependentes.append(dependente)
         # print(f"Dependente adicionado: {nome_d} {sobrenome} - grau: {parentesco}")
         
-        
     def listar_dependente(self):
         
         nome_dep = f"Denpendentes:  "
